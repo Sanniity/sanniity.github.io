@@ -1,4 +1,4 @@
-# Sanniity的同人垃圾桶
+# Sanniity
 ### :page_facing_up: [0](https://Sanniity.github.io/sanniity.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 0 
